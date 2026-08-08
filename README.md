@@ -1,24 +1,87 @@
-# 💫 About Me:
-I'm currently working on Software Development <br>Full Stack Website and App Developer <br>Machine Learning and Generative AI learner <br>Looking for collaboration for development
+<!-- portrait.svg goes here once scripts/generate_portrait.py has run on a photo -->
+<div align="center">
 
+<img src="assets/headings/hero.svg" alt="mayank bansal -- software engineer @ failproof ai, iit jodhpur" width="480">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mayankbansal0915) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mayank609&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mayank609&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mayank609&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mayank609&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+> Everything below is generated inside this repository by a scheduled
+> action. The whole page makes zero third-party requests -- no badge
+> services, no stats widgets, nothing that can rate-limit or go dark.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mayank609&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="assets/headings/about.svg" alt="about" width="760">
 
----
-[![](https://komarev.com/ghpvc/?username=mayank609&icon=0&color=0)](https://visitcount.itsvg.in)
+Software engineer working across full-stack web and mobile, with a growing<br>
+focus on machine learning and generative AI. Currently building at Failproof<br>
+AI; before that, computer science at IIT Jodhpur. This page is generated by<br>
+the repository you're looking at -- no third-party badges, no widgets that<br>
+can go dark.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="assets/headings/stack.svg" alt="stack" width="760">
+
+<samp>
+languages&nbsp;&nbsp;&nbsp;c, c++, python, javascript, typescript, java, kotlin, dart<br>
+frontend&nbsp;&nbsp;&nbsp;&nbsp;react, next.js, react native, tailwindcss, vite<br>
+backend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;node, express, fastapi, flask, django, socket.io<br>
+data / ml&nbsp;&nbsp;&nbsp;pytorch, tensorflow, scikit-learn, pandas, numpy, opencv<br>
+infra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aws, gcp, cloudflare, vercel, render, firebase, docker<br>
+databases&nbsp;&nbsp;&nbsp;postgres, mysql, mongodb, sqlite, supabase
+</samp>
+
+<img src="assets/headings/activity.svg" alt="activity" width="760">
+
+<img src="stats.svg" alt="total contributions and weekly sparkline, last 365 days" width="520">
+
+<img src="assets/headings/streak.svg" alt="streak" width="760">
+
+<img src="streak.svg" alt="current and longest contribution streaks" width="480">
+
+<img src="assets/headings/languages.svg" alt="languages" width="760">
+
+<img src="langs.svg" alt="top languages by bytes across public repositories" width="520">
+
+<img src="assets/headings/contributions.svg" alt="contributions, one square per day" width="760">
+
+<img src="year.svg" alt="contribution activity, one character per day for the last year" width="760">
+
+<img src="assets/headings/elsewhere.svg" alt="elsewhere" width="760">
+
+<samp>
+site&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.mayankbansal.space<br>
+instagram&nbsp;&nbsp;&nbsp;https://instagram.com/mayankbansal0915
+</samp>
+
+<hr>
+
+<details>
+<summary>how this page works</summary>
+
+<br>
+
+Four SVGs (<samp>stats.svg</samp>, <samp>streak.svg</samp>,
+<samp>langs.svg</samp>, <samp>year.svg</samp>) are redrawn every night by
+<a href=".github/workflows/refresh-stats.yml">a GitHub Actions
+workflow</a> that queries this account's own GraphQL API and commits only
+when a number actually changed. It uses the repository's built-in
+<samp>GITHUB_TOKEN</samp> -- no personal access token, no dependencies
+beyond the Python standard library.
+
+The contribution window is pinned to whole UTC days and the language
+stats only count public repositories, so the output is the same
+regardless of who or what triggers the run.
+
+The portrait at the top runs once, by hand, from
+<samp>scripts/generate_portrait.py</samp>: background removal, a
+bilateral filter, local contrast (CLAHE), a darkening curve, then a
+13-character ramp -- typed on load via an SVG wipe animation, not
+looping.
+
+Every graphic embeds its own subset of JetBrains Mono (SIL OFL 1.1) as a
+base64 <samp>@font-face</samp>, since an <samp>&lt;img&gt;</samp>-embedded
+SVG can't fetch an external font.
+
+</details>
+
+<sub>portrait pipeline credit: the ASCII Portrait README Guide &middot; typeface: JetBrains Mono, SIL OFL 1.1</sub>

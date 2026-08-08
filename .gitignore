@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.u2net/
+config.bat
+node_modules
